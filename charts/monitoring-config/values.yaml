@@ -1,0 +1,4 @@
+ingress:
+  auth:
+    user: "monitoring"
+    password: "monitoring"
