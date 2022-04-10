@@ -3,7 +3,17 @@ entries:
   cert-manager-config:
   - apiVersion: v2
     appVersion: 1.16.2
-    created: "2022-04-01T01:24:26.61925415-03:00"
+    created: "2022-04-10T13:51:31.945898735-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 514af371dc6a21b4a51de6d311f0d32fcf7505f8bb4473c0666c968065af78d3
+    name: cert-manager-config
+    type: application
+    urls:
+    - https://alpheres.github.io/helm-charts/cert-manager-config-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2022-04-10T13:51:31.945600405-03:00"
     description: A Helm chart for Kubernetes
     digest: 1ce91ba95ed88357a74c3fa51c26db8c2987ee5bc4a7e00e9df35484c7496ee5
     name: cert-manager-config
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://alpheres.github.io/helm-charts/cert-manager-config-0.1.2.tgz
     version: 0.1.2
-generated: "2022-04-01T01:24:26.618496411-03:00"
+generated: "2022-04-10T13:51:31.945138954-03:00"
